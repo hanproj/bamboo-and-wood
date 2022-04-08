@@ -1,5 +1,7 @@
+# Bamboo and wood
 This is a repository for creating a rhyme annotated corpus of excavated Han dynasty texts on bamboo or wood. 
 
+## Workplan
 FOSTER: Excavated texts:
 
 1. Conduct analyses and input data for the Peking University 蒼頡篇 and 妄稽. Then add 神烏 (from 尹灣), and 孔子衣鏡 (from 海昏侯), both are short. Next look at the 反淫 from the Peking University (which has a parallel in the received corpus called 七發). This is based on my limited knowledge of what is rhyming in the 出土文獻, and probably only the most obvious examples of poems. The work for the 蒼頡篇 is largely done: https://calc.hypotheses.org/2525
@@ -10,6 +12,8 @@ If you need any help with accessing the primary sources, let me know. Attaching 
 
 There was a very rough list put together at the beginning of the application process, which includes received and excavated texts, you can find it here:
 https://docs.google.com/spreadsheets/d/1MZzKSo9xx6VDXbzUNZaUbHdECWLIIa2KvsktFY0GqXA/edit#gid=0 
+
+## 妄稽
 
 The poem you are remembering is the 妄稽 from the 北大漢簡 (volume four). A random search led me to this site with a transcription: <https://itw01.com/YMRUME2.html>, though obviously do not use this for your work, just as a quick reference here. The rhyming is really regular and easy to identify. E.g.:
 
@@ -38,6 +42,8 @@ The others mentioned on that list are the 神烏賦 (attaching an article for re
 
 I have PDFs of most of the manuscript publications, if needed. For a convenient quick check of what's out there in terms of unearthed wood and bamboo manuscripts, this wiki has a relatively up-to-date list: 
 [https://zh.wikipedia.org/wiki/中國出土簡帛列表](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%87%BA%E5%9C%9F%E7%B0%A1%E5%B8%9B%E5%88%97%E8%A1%A8)
+
+## one poem from Dunhuang
 
 Hey there, yes! The 敦煌漢簡 poem will be a quick entry. It can be found as strip #2253 in the volume 敦煌漢簡 (and as Nathan linked, the text is also here for quick reference: https://zh.wikisource.org/zh-hans/敦煌漢簡風雨詩). The main rhymes are 多, 沙, 河, 波, 加, 池, 何 and 過 (all Baxter & Sagart's *-aj). 
 N.b. that another version of the same poem is included in a recently published collection, 新見漢牘蒼頡篇史篇校釋, where the only change in rhyme words is 池:他. This is a looted manuscript, not authenticated, and should be used with caution, if included at all at this point.
