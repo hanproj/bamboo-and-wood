@@ -38,3 +38,9 @@ The others mentioned on that list are the 神烏賦 (attaching an article for re
 
 I have PDFs of most of the manuscript publications, if needed. For a convenient quick check of what's out there in terms of unearthed wood and bamboo manuscripts, this wiki has a relatively up-to-date list: 
 [https://zh.wikipedia.org/wiki/中國出土簡帛列表](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%87%BA%E5%9C%9F%E7%B0%A1%E5%B8%9B%E5%88%97%E8%A1%A8)
+
+Hey there, yes! The 敦煌漢簡 poem will be a quick entry. It can be found as strip #2253 in the volume 敦煌漢簡 (and as Nathan linked, the text is also here for quick reference: https://zh.wikisource.org/zh-hans/敦煌漢簡風雨詩). The main rhymes are 多, 沙, 河, 波, 加, 池, 何 and 過 (all Baxter & Sagart's *-aj). 
+N.b. that another version of the same poem is included in a recently published collection, 新見漢牘蒼頡篇史篇校釋, where the only change in rhyme words is 池:他. This is a looted manuscript, not authenticated, and should be used with caution, if included at all at this point.
+As for the 陰陽家言  (in volume three of the Peking University collection), I admit this is only really a guess on my part after a quick skim. There may be rhyming, may not be rhyming, so save this to the very end of your priorities, perhaps a first step in the "fishing" part of your workflow.
+Best,
+Chris
