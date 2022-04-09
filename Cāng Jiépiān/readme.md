@@ -9,7 +9,7 @@ Christopher J. Foster, "Annotating Rhyme Judgments for a Complex Corpus of Manus
 List, Johann-Mattis, Nathan. W. Hill, and Christopher J. Foster. “Towards a Standardized Annotation of Rhyme Judgments in Chinese Historical Phonology (and Beyond).” Journal of Language Relationship 17 (2019): 26-43, https://doi.org/10.31826/jlr-2019-171-207.
 
 @Article{List2019Rhymes,
-  author       = {Johann-Mattis List and Nathan. W. Hilland Christopher J. Foster},
+  author       = {Johann-Mattis List and Nathan. W. Hill and Christopher J. Foster},
   date         = {2019},
   journaltitle = {Journal of Language Relationship},
   title        = {Towards a Standardized Annotation of Rhyme Judgments in Chinese Historical Phonology (and Beyond)},
