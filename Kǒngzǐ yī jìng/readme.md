@@ -16,7 +16,7 @@ pages={203–232},
 abstract={This article provides a contextual analysis of an enigmatic object—dubbed the “Confucius Dressing Mirror” (Kongzi yijing 孔子衣鏡)—recently unearthed from the tomb of Liu He 劉賀 (Marquis of Haihun 海昏侯, d. 59 BCE) in 2015. I raise questions about the prevailing identification of this object as a “dressing mirror” and a “lived object,” used by Liu He for moral self-cultivation or political self-preservation in his volatile life as the deposed ninth emperor of Han. Instead, I treat the object as an assemblage and analyze its complete material composition and physical placement in Liu He's tomb in the broader context of funerary material culture and burial practice in early imperial China. I propose that the entombed object can be considered as a composite talisman to protect the deceased against baleful and harmful influences in the tomb and in his afterlife. Methodologically, this article stresses the importance of contextual analysis in shedding light on the traditional conceptual categories such as “lived object” (shengqi 生器) and “funerary objects” (mingqi 明器) in actual funerary ritual processes.}
 }
 
-@Article{Wang2022Shenwufu,
+@Article{Wang2022Yijing,
   author       = {王楚宁},
   date         = {2022},
   journaltitle = {文物},
