@@ -16,6 +16,19 @@ pages={203–232},
 abstract={This article provides a contextual analysis of an enigmatic object—dubbed the “Confucius Dressing Mirror” (Kongzi yijing 孔子衣鏡)—recently unearthed from the tomb of Liu He 劉賀 (Marquis of Haihun 海昏侯, d. 59 BCE) in 2015. I raise questions about the prevailing identification of this object as a “dressing mirror” and a “lived object,” used by Liu He for moral self-cultivation or political self-preservation in his volatile life as the deposed ninth emperor of Han. Instead, I treat the object as an assemblage and analyze its complete material composition and physical placement in Liu He's tomb in the broader context of funerary material culture and burial practice in early imperial China. I propose that the entombed object can be considered as a composite talisman to protect the deceased against baleful and harmful influences in the tomb and in his afterlife. Methodologically, this article stresses the importance of contextual analysis in shedding light on the traditional conceptual categories such as “lived object” (shengqi 生器) and “funerary objects” (mingqi 明器) in actual funerary ritual processes.}
 }
 
+@Article{Wang2022Shenwufu,
+  author       = {王楚宁},
+  date         = {2022},
+  journaltitle = {文物},
+  issue        = {3},
+  pages        = {52-63},
+  url          = {https://kns.cnki.net/kcms/detail/detail.aspx?FileName=WENW202203003&DbName=DKFXTEMP},
+  abstract     = {江西南昌西汉海昏侯刘贺墓出土有一件(套)与孔子相关的珍贵文物,其上绘写了孔子与弟子的图像、传记。出土时因该文物的漆木结构近屏风,故暂名为“孔子屏风”;后考虑到随出青铜大方镜及铭文《衣镜赋》,又更名为“孔子衣镜”。为描述方便,本文称其为“孔子镜屏”。该文物情况复杂、意义重大,本文依据考古资料、文物保护数据等绘制摹本,对其形制进行复原,并对其性质再做辨析。},
+  doi = {10.13619/j.cnki.cn11-1532/k.2022.03.006},
+  groups       = {Imported Asia.txt},
+  keywords     = {海昏侯;复原研究},
+}
+
 
 [1]王楚宁.江西南昌西汉海昏侯刘贺墓出土“孔子镜屏”复原研究[J].文物,2022(03):52-63.DOI:10.13619/j.cnki.cn11-1532/k.2022.03.006.
 DataType: 1
