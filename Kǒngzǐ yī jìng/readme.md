@@ -4,6 +4,9 @@ The 孔子衣鏡 (from 海昏侯), short.
 
 ## Bibliography
 
+@article{guo_2019, title={The Life and Afterlife of a Western Han “Covered Mirror” from the Tomb of Marquis of Haihun (59 BCE)}, volume={3}, DOI={10.1017/jch.2019.10}, number={2}, journal={Journal of Chinese History}, publisher={Cambridge University Press}, author={Guo, Jue}, year={2019}, pages={203–232}}
+
+
 [1]王楚宁.江西南昌西汉海昏侯刘贺墓出土“孔子镜屏”复原研究[J].文物,2022(03):52-63.DOI:10.13619/j.cnki.cn11-1532/k.2022.03.006.
 DataType: 1
 Title-题名: 江西南昌西汉海昏侯刘贺墓出土“孔子镜屏”复原研究
