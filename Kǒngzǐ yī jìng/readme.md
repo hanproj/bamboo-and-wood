@@ -4,7 +4,17 @@ The 孔子衣鏡 (from 海昏侯), short.
 
 ## Bibliography
 
-@article{guo_2019, title={The Life and Afterlife of a Western Han “Covered Mirror” from the Tomb of Marquis of Haihun (59 BCE)}, volume={3}, DOI={10.1017/jch.2019.10}, number={2}, journal={Journal of Chinese History}, publisher={Cambridge University Press}, author={Guo, Jue}, year={2019}, pages={203–232}}
+@article{guo_2019, 
+title={The Life and Afterlife of a Western Han “Covered Mirror” from the Tomb of Marquis of Haihun (59 BCE)}, 
+volume={3}, 
+DOI={10.1017/jch.2019.10}, 
+number={2}, 
+journal={Journal of Chinese History}, 
+publisher={Cambridge University Press}, 
+author={Guo, Jue}, year={2019}, 
+pages={203–232},
+abstract={This article provides a contextual analysis of an enigmatic object—dubbed the “Confucius Dressing Mirror” (Kongzi yijing 孔子衣鏡)—recently unearthed from the tomb of Liu He 劉賀 (Marquis of Haihun 海昏侯, d. 59 BCE) in 2015. I raise questions about the prevailing identification of this object as a “dressing mirror” and a “lived object,” used by Liu He for moral self-cultivation or political self-preservation in his volatile life as the deposed ninth emperor of Han. Instead, I treat the object as an assemblage and analyze its complete material composition and physical placement in Liu He's tomb in the broader context of funerary material culture and burial practice in early imperial China. I propose that the entombed object can be considered as a composite talisman to protect the deceased against baleful and harmful influences in the tomb and in his afterlife. Methodologically, this article stresses the importance of contextual analysis in shedding light on the traditional conceptual categories such as “lived object” (shengqi 生器) and “funerary objects” (mingqi 明器) in actual funerary ritual processes.}
+}
 
 
 [1]王楚宁.江西南昌西汉海昏侯刘贺墓出土“孔子镜屏”复原研究[J].文物,2022(03):52-63.DOI:10.13619/j.cnki.cn11-1532/k.2022.03.006.
