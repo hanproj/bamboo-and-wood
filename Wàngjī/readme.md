@@ -4,4 +4,6 @@ The poem you are remembering is the 妄稽 from the 北大漢簡 (volume four). 
 
 ## Bibliography
 
-BDCWY (Beijing Daxue Chutu Wenxian Yanjiusuo) 北京大学出土文献研究所. 2012. Beijing daxue cang Xihan zhujian 北京大学藏西汉竹简 (The bamboo slips of Western Han collected by Peking University). Shanghai: Shanghai guji chubanshe.
+BDCWY (Beijing Daxue Chutu Wenxian Yanjiusuo) 北京大学出土文献研究所. 2015. Beijing daxue cang Xihan zhujian 北京大学藏西汉竹简 (The bamboo slips of Western Han collected by Peking University). Vol 4. Shanghai: Shanghai guji chubanshe.
+
+何晋.北大汉简《妄稽》简述[J].文物，2011（6）：75-77. DOI: 10.13619/j.cnki.cn11-1532/k.2011.06.011
